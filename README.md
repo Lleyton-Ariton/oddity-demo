@@ -18,7 +18,7 @@ The web app was built with [**Streamlit**](https://www.streamlit.io/) and deploy
 - Build the docker container with:
 
 	```Bash 
-	docker build -t oddity-demo/app
+	docker build -t oddity-demo/app:latest .
 	```
 	
 - Then run the container lockally with:
