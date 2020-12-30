@@ -38,3 +38,6 @@ The following are some important links for more information:
 > Oddity: [https://github.com/Lleyton-Ariton/oddity](https://github.com/Lleyton-Ariton/oddity)
 
 > Oddity Engine (Rust): [https://github.com/Lleyton-Ariton/oddity-engine](https://github.com/Lleyton-Ariton/oddity-engine)
+
+## Extra
+For some extra information on time series data/anomaly detection, you can check out my medum article series [*Houston, we have a problem*](https://lleyton-ariton.medium.com/houston-we-have-a-problem-time-series-anomaly-detection-4ab48c10dd01).
